@@ -1,6 +1,7 @@
 # Stock Price Predictor
 ## Overview
-This project aims to predict stock prices using TensorFlow’s Deep Learning algorithms. By constructing a predictive model, we can forecast stock prices and provide valuable insights for financial decision-making.
+This project aims to predict stock prices using TensorFlow’s Deep Learning algorithms. By constructing a predictive model, we can forecast stock prices and provide valuable insights for financial decision-making. \
+Please view the stock_price_predictor.ipynb file for figures and visualizations.
 
 ## Features
 **Predictive Modeling:** Utilizes TensorFlow’s Deep Learning algorithms to predict stock prices. \
