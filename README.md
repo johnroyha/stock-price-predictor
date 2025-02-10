@@ -11,4 +11,4 @@ Please view the stock_price_predictor.ipynb file for figures and visualizations.
 **TensorFlow:** For building and training the predictive model. \
 **Pandas:** For data analysis and manipulation. \
 **NumPy:** For large-scale numerical computations. \
-**Matplotlib & Seaborn:** For data visualization.
+**Matplotlib:** For data visualization.
